@@ -1,0 +1,4 @@
+AuthUserFile /home/leorm/sphere/.htpasswd
+AuthName "Sphere"
+AuthType Basic
+require valid-user
